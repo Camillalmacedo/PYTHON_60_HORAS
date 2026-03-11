@@ -1,0 +1,6 @@
+print('SISTEMA MATEMÁTICO')
+número = int(input ('Digite o número para ser elevado ao quadrado:'))
+print('***' * 15)
+print('O quadrado no número', número, 'é igual a')
+quadrado = (número * número)
+print(quadrado)
