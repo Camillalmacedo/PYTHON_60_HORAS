@@ -62,4 +62,7 @@ else:
 print()
 print('EXERCÍCIO 7')
 numeroe = int(input('Digie um número  ->'))
-if numeroe 
+if numeroe % 3 == 0 or numeroe % 5 == 0:
+    print('O número é divisível por 3 ou por 5.')
+else:
+    print('O número não é divivível nem por 3 nem por 5')
