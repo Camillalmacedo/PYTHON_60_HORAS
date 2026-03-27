@@ -1,7 +1,17 @@
-import metodo
+import pygame
 
-print(metodo.atividade1())
-print(metodo.atividade2())
-print(metodo.atividade3())
-(metodo.atividade4())
-print(metodo.atividade5())
+
+pygame.init()
+tela = pygame.display.set_mode((500,500))
+run = True
+
+while run:
+
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            run = False
+            pygame.quit()
+    tela.fill(('#b68de0'))
+    pygame.draw.rect(tela,('#ffffff'),(235,235,30,30))
+    pygame.display.update()
+pygame.quit
