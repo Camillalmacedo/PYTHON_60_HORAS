@@ -1,0 +1,46 @@
+FUNÇÃO E IMPORTÂNCIA DE UM SCRUM MASTER
+O Scrum Master é um líder servidor e facilitador ágil, responsável por garantir a aplicação do framework Scrum, remover bloqueios (impedimentos) e treinar o time para alta produtividade. Sua importância reside em proteger a equipe de distrações, facilitar cerimônias (Dailies, Retrospectivas) e assegurar a entrega contínua de valor com qualidade.
+
+FUNÇÃO E IMPORTÂNCIA DE UM PO
+O Product Owner (PO), ou Dono do Produto, é uma figura central no desenvolvimento ágil (especialmente no Scrum), agindo como a voz do cliente e o principal responsável por maximizar o valor do produto entregue pela equipe de desenvolvimento. Ele atua como uma ponte entre os stakeholders (partes interessadas) e o time técnico.
+
+FUNÇÃO E IMPORTÂNCIA DA EQUIPE LÍDER DE TI
+A equipe líder de TI (gestores, gerentes, CTOs, Tech Leads) é fundamental para garantir que a infraestrutura tecnológica não apenas funcione, mas atue como um motor estratégico para os negócios, alinhando as operações de TI aos objetivos da empresa.
+
+
+FUNÇÃO E IMPORTÂNCIA DA EQUIPE DE TECNOLOGIA
+A equipe de Tecnologia da Informação (TI) é crucial para empresas modernas, indo além do suporte técnico para garantir eficiência operacional, segurança de dados e inovação estratégica. Suas funções incluem gestão de infraestrutura, desenvolvimento de software, automação de processos, análise de dados e proteção contra ameaças cibernéticas.
+
+
+
+
+CLASSIFICANDO
+
+- Validar as entregas (aceitar ou rejeitar resultados).  
+- Decidir o que será desenvolvido em cada Sprint. 
+Habilidades: Visão de negócio, comunicação clara e capacidade de priorização.
+RESPONSÁVEL:PO
+
+
+
+- Facilitar eventos como Daily, Planning, Review e Retrospective.  
+- Remover impedimentos que atrapalham o time.  
+- Proteger o time de interferências externas.
+Habilidades: Liderança servidora, resolução de conflitos e conhecimento ágil.
+RESPONSÁVEL:SCRUM MASTER
+
+
+
+- Ajudar a equipe a resolver desafios técnicos complexos.  
+- Mentoria para desenvolvedores menos experientes.  
+- Participar de decisões sobre tecnologias e ferramentas.
+Habilidades: Conhecimento técnico aprofundado e capacidade de mentoria. 
+RESPONSÁVEL:LÍDER DE EQUIPE DE TI
+
+
+- Auto-organização para distribuir tarefas.  
+- Participar ativamente dos eventos do Scrum.  
+- Estimar esforço das tarefas (Planning Poker).  
+- Ajudar a melhorar processos (Retrospectivas).  
+Habilidades: Colaboração, autonomia e habilidades técnicas.  
+RESPONSÁVEL:EQUIPE D TECNOLOGIA
